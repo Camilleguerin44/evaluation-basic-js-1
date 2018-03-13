@@ -1,6 +1,15 @@
 var mapCustomer = function(customer) {
-  // Your future job begins here ...
-}
+
+
+  var output = {
+    firstname: 'John',
+    lastname: 'Doe',
+    products: [],
+    moneySpent: 0
+    }
+  return output;
+  }
+
 
 module.exports = {
   title: 'Exercise 2',
